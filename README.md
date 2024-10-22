@@ -10,5 +10,5 @@
 
 **Контакты для связи**
 
-- daria@gmail.com
+- email: daria@gmail.com
 - тел. 8 800 324 54 54
